@@ -1,8 +1,6 @@
-movie_title = "Inception"
-release_year = 2010
+movieTitle = "Stolen Kingdom"
+releaseYear = 2026
 
+sentence = f"The {movieTitle} released in {releaseYear}";
 
-movie_info = f"The movie '{movie_title}' was released in {release_year}."
-
-print(movie_info)
-print("Type of release_year:", type(release_year))
+print(sentence)
